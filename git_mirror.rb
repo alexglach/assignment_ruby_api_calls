@@ -8,3 +8,6 @@
 #
 
 
+#Make a new API Object
+#github.repos.create name: 'forkcommithistory'
+#github.repos.content.create 'alexglach', 'forkcommithistory', path:'README.md'
